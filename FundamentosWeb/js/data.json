@@ -1,0 +1,15 @@
+{
+  "nombre": "Greys",
+  "edad": 20,
+  "estudiante": true,
+  "materias": [
+    "Lenguajes Interpretados",
+    "Diseño de Interfaces",
+    "Desarrollo Web"
+  ],
+  "contacto": {
+    "correo": "cdmx2510@amerike.edu.mx",
+    "redes sociales": "@greyslor",
+    "movil": "1199465124"
+  }
+}
