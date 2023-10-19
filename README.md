@@ -9,6 +9,6 @@
 
 ### GitHub Pages
 - Artículo Investigación
-    - [@Greyslor](https://github.com/Greyslor/ArticuloInvestigacion)
+    - [@Greyslor](https://greyslor.github.io/ArticuloInvestigacion/)
 
 ---
