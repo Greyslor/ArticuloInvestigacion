@@ -1,75 +1,71 @@
-/* 
-Los 3 tipos de selectores básicos que tenemos en CSS son:
-
-1) Selectores de etiqueta
-2) Selectores de identificadores
-3) Selectores de clases
-*/
-
+/* Estilos generales */
 body {
-  background-color: #ddd;
-  color: #222;
-  font-family: "Inter", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
 }
 
-img {
-  max-width: 100%;
+header {
+  background: pink;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
 }
 
-body {
-  background-color: bisque;
-  color: #eee;
+.bgimg{
+  background-image: url("https://vscode.dev/github/Greyslor/ArticuloInvestigacion/blob/main/FundamentosWeb/img/fondo.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 
-p {
-  color: navy;
-}
-
-#titulo {
-  background-color: aliceblue;
-  color: grey;
+nav {
+  background: #ffc3eb;
+  color: #fff;
   text-align: center;
 }
 
-.container {
-  /* background-color: bisque; */
-  max-width: 1024px;
-  margin-left: auto;
-  margin-right: auto;
+nav ul {
+  padding: 0;
+  color: #9a06f0;
 }
 
-.text-center {
-  text-align: center;
+nav ul li {
+  display: inline;
+  margin: 0 10px;
 }
 
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-}
-
-.bg-purple {
-  background-color: purple;
-}
-
-.bg-pink {
+section {
+  padding: 20px;
   background-color: pink;
 }
 
-.bg-orange {
-  background-color: orange;
+/* Estilos específicos */
+/* Estilos de modo nocturno */
+body.dark-mode {
+  background-color: #333;
 }
 
-.fs-20 {
-  font-size: 20px;
+/* Estilos de las secciones */
+#estilo-visual, #arco-thriller-bark, #habilidad-unica, #historia, #personalidad-infantil {
+  background-color: rgb(255, 206, 214);
+  margin: 30px;
+  padding: 20px;
 }
 
-.fs-16 {
-  font-size: 16px;
+/* Estilos de imágenes */
+img {
+  max-width: 40%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
 }
 
-.fs-12 {
-  font-size: 12px;
+ul{
+  color: #d2a1fa;
 }
