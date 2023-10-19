@@ -4,8 +4,11 @@
   "estudiante": true,
   "materias": [
     "Lenguajes Interpretados",
-    "Diseño de Interfaces",
-    "Desarrollo Web"
+    "Diseño de Videojuegos",
+    "Principios de Composición y Diseño",
+    "Sistemas Operativos",
+    "Proyecto Semestral",
+    "Inglés Técnico para Videojuegos"
   ],
   "contacto": {
     "correo": "cdmx2510@amerike.edu.mx",
