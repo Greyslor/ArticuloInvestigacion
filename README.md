@@ -11,4 +11,7 @@
 - Artículo Investigación
     - [@Greyslor](https://greyslor.github.io/ArticuloInvestigacion/)
 
+
+# Parcial 3 Práctica 2
+- Implementando Bootstrap
 ---
