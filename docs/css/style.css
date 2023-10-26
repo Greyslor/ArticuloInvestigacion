@@ -37,7 +37,7 @@ header {
 }
 
 .outL{
-  text-shadow: -1px -1px 0 #294366, 1px -1px 0 #294366, -1px 1px 0 #294366, 1px 1px 0 #294366;
+  text-shadow: -3px -3px 0 #294366, 3px -3px 0 #294366, -1px 1px 0 #294366, 5px 5px 0 #294366;
 }
 
 .container {
